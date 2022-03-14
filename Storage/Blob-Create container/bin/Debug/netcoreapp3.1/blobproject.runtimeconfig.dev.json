@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dileep.pai\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dileep.pai\\.nuget\\packages"
+    ]
+  }
+}

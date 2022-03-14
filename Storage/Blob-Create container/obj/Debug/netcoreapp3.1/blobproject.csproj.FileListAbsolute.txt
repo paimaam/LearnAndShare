@@ -1,0 +1,56 @@
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.csprojAssemblyReference.cache
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\Work\Udemy_2020\AZ-204\Develop for Azure storage\Storage Accounts\.Net Azure Blob storage - Create Container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.genruntimeconfig.cache
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.csproj.AssemblyReference.cache
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\Learn\Azure-Dev\AZ-204 - Develop for Azure Storage - Azure Storage Accounts\1. Lab - Azure storage - .Net - Create container\blobservice\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.genruntimeconfig.cache
+C:\Az 204 Labs\Storage\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.exe
+C:\Az 204 Labs\Storage\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.deps.json
+C:\Az 204 Labs\Storage\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.json
+C:\Az 204 Labs\Storage\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.runtimeconfig.dev.json
+C:\Az 204 Labs\Storage\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.dll
+C:\Az 204 Labs\Storage\Blob-Create container\bin\Debug\netcoreapp3.1\blobproject.pdb
+C:\Az 204 Labs\Storage\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Az 204 Labs\Storage\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Az 204 Labs\Storage\Blob-Create container\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Az 204 Labs\Storage\Blob-Create container\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Az 204 Labs\Storage\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.csproj.AssemblyReference.cache
+C:\Az 204 Labs\Storage\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Az 204 Labs\Storage\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfoInputs.cache
+C:\Az 204 Labs\Storage\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.AssemblyInfo.cs
+C:\Az 204 Labs\Storage\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.csproj.CoreCompileInputs.cache
+C:\Az 204 Labs\Storage\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.csproj.CopyComplete
+C:\Az 204 Labs\Storage\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.dll
+C:\Az 204 Labs\Storage\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.pdb
+C:\Az 204 Labs\Storage\Blob-Create container\obj\Debug\netcoreapp3.1\blobproject.genruntimeconfig.cache

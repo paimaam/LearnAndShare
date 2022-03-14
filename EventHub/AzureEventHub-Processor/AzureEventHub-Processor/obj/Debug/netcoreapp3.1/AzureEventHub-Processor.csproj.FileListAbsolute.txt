@@ -1,0 +1,45 @@
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\AzureEventHub-Processor.exe
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\AzureEventHub-Processor.deps.json
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\AzureEventHub-Processor.runtimeconfig.json
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\AzureEventHub-Processor.runtimeconfig.dev.json
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\AzureEventHub-Processor.dll
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\AzureEventHub-Processor.pdb
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.Processor.dll
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.csprojAssemblyReference.cache
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.AssemblyInfoInputs.cache
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.AssemblyInfo.cs
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.csproj.CoreCompileInputs.cache
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.csproj.CopyComplete
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.dll
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.pdb
+C:\tmp\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.genruntimeconfig.cache
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\AzureEventHub-Processor.exe
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\AzureEventHub-Processor.deps.json
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\AzureEventHub-Processor.runtimeconfig.json
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\AzureEventHub-Processor.runtimeconfig.dev.json
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\AzureEventHub-Processor.dll
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\AzureEventHub-Processor.pdb
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.dll
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Azure.Messaging.EventHubs.Processor.dll
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.csproj.AssemblyReference.cache
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.AssemblyInfoInputs.cache
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.AssemblyInfo.cs
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.csproj.CoreCompileInputs.cache
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.csproj.CopyComplete
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.dll
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.pdb
+C:\Az 204 Labs\LearnAndShare\EventHub\AzureEventHub-Processor\AzureEventHub-Processor\obj\Debug\netcoreapp3.1\AzureEventHub-Processor.genruntimeconfig.cache

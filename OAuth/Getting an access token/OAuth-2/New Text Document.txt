@@ -1,0 +1,55 @@
+Authentication - it is u r saying u r who u say u r
+
+
+Authorization - Granting access to authenticated user
+
+
+
+
+
+Service is exposed via api
+
+Oauth is the standard for granting the access to the resourcess wihtout the need to provider username and password for authorization
+
+https://oauth.net/2/
+
+
+https://docs.microsoft.com/en-us/rest/api/storageservices/authorize-requests-to-azure-storage
+
+Assignment - for keyvault https://docs.microsoft.com/en-us/rest/api/keyvault/get-secrets/get-secrets
+
+Graph api - similar to rest, but used to get details of multiple nodes on single request
+So far RBAC is used
+By defult permission of user.read is configured
+Delegated permission - if user logs into app and that app is using application object then app can use all permissions of user
+
+For postman tool (Delegated permssion needs to change to application type) 
+For insufficient previlages
+
+
+
+
+Authorization code - 
+
+
+
+
+
+Authorization code flow
+
+Redirect uri - gets response back froms erver
+Hanshake returns code
+
+V2 authorization endpoint - can give scope
+
+
+Application has to make request to token endpoint - to get token Give authroization code and get token
+
+Use this token for access api
+
+
+Microsoft identity platofrm helps us implement platform
+
+Default role for graph api - user.read type is delegated
+
+For storage it is user.impersonation 

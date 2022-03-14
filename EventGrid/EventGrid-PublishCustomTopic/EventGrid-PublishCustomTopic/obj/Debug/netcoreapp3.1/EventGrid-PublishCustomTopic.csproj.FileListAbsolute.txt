@@ -1,0 +1,37 @@
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.exe
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.deps.json
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.runtimeconfig.json
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.runtimeconfig.dev.json
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.dll
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.pdb
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\Azure.Messaging.EventGrid.dll
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.csprojAssemblyReference.cache
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.AssemblyInfoInputs.cache
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.AssemblyInfo.cs
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.csproj.CoreCompileInputs.cache
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.csproj.CopyComplete
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.dll
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.pdb
+C:\tmp\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.genruntimeconfig.cache
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.exe
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.deps.json
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.runtimeconfig.json
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.runtimeconfig.dev.json
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.dll
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.pdb
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\Azure.Messaging.EventGrid.dll
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.csproj.AssemblyReference.cache
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.AssemblyInfoInputs.cache
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.AssemblyInfo.cs
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.csproj.CoreCompileInputs.cache
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.csproj.CopyComplete
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.dll
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.pdb
+C:\Az 204 Labs\LearnAndShare\EventGrid\EventGrid-PublishCustomTopic\EventGrid-PublishCustomTopic\obj\Debug\netcoreapp3.1\EventGrid-PublishCustomTopic.genruntimeconfig.cache

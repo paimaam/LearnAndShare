@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationInsightsResourceId>/subscriptions/bc764be6-5ced-492b-b0a1-3eed2a03db71/resourceGroups/az204practice/providers/microsoft.insights/components/dileeps</ApplicationInsightsResourceId>
+    <UserSecretsId>84858758-ff0a-41ce-8e64-493498539d4e</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
+  </ItemGroup>
+
+
+</Project>

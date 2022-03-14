@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Az 204 Labs\\LearnAndShare\\AzureClientObjectBlob\\BlobObject\\ManageIdentity\\ManageIdentityBlob.csproj": {}
+  },
+  "projects": {
+    "C:\\Az 204 Labs\\LearnAndShare\\AzureClientObjectBlob\\BlobObject\\ManageIdentity\\ManageIdentityBlob.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Az 204 Labs\\LearnAndShare\\AzureClientObjectBlob\\BlobObject\\ManageIdentity\\ManageIdentityBlob.csproj",
+        "projectName": "ManageIdentityBlob",
+        "projectPath": "C:\\Az 204 Labs\\LearnAndShare\\AzureClientObjectBlob\\BlobObject\\ManageIdentity\\ManageIdentityBlob.csproj",
+        "packagesPath": "C:\\Users\\dileep.pai\\.nuget\\packages\\",
+        "outputPath": "C:\\Az 204 Labs\\LearnAndShare\\AzureClientObjectBlob\\BlobObject\\ManageIdentity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dileep.pai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Client Repos\\kmd-logic-citizen-documents\\kmd-logic-citizen-documents-client\\src\\Kmd.Logic.CitizenDocuments.Client": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://kmddk.pkgs.visualstudio.com/_packaging/Logic%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.4.1, )"
+            },
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

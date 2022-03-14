@@ -1,0 +1,38 @@
+C:\tmp\AzureStorageQueue\AzureStorageQueue\bin\Debug\netcoreapp3.1\AzureStorageQueue.exe
+C:\tmp\AzureStorageQueue\AzureStorageQueue\bin\Debug\netcoreapp3.1\AzureStorageQueue.deps.json
+C:\tmp\AzureStorageQueue\AzureStorageQueue\bin\Debug\netcoreapp3.1\AzureStorageQueue.runtimeconfig.json
+C:\tmp\AzureStorageQueue\AzureStorageQueue\bin\Debug\netcoreapp3.1\AzureStorageQueue.runtimeconfig.dev.json
+C:\tmp\AzureStorageQueue\AzureStorageQueue\bin\Debug\netcoreapp3.1\AzureStorageQueue.dll
+C:\tmp\AzureStorageQueue\AzureStorageQueue\bin\Debug\netcoreapp3.1\AzureStorageQueue.pdb
+C:\tmp\AzureStorageQueue\AzureStorageQueue\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\AzureStorageQueue\AzureStorageQueue\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\tmp\AzureStorageQueue\AzureStorageQueue\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
+C:\tmp\AzureStorageQueue\AzureStorageQueue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\AzureStorageQueue\AzureStorageQueue\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\tmp\AzureStorageQueue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.AssemblyInfoInputs.cache
+C:\tmp\AzureStorageQueue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.AssemblyInfo.cs
+C:\tmp\AzureStorageQueue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.csproj.CoreCompileInputs.cache
+C:\tmp\AzureStorageQueue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.csproj.CopyComplete
+C:\tmp\AzureStorageQueue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.dll
+C:\tmp\AzureStorageQueue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.pdb
+C:\tmp\AzureStorageQueue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.genruntimeconfig.cache
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\bin\Debug\netcoreapp3.1\AzureStorageQueue.exe
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\bin\Debug\netcoreapp3.1\AzureStorageQueue.deps.json
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\bin\Debug\netcoreapp3.1\AzureStorageQueue.runtimeconfig.json
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\bin\Debug\netcoreapp3.1\AzureStorageQueue.runtimeconfig.dev.json
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\bin\Debug\netcoreapp3.1\AzureStorageQueue.dll
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\bin\Debug\netcoreapp3.1\AzureStorageQueue.pdb
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\bin\Debug\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\bin\Debug\netcoreapp3.1\Azure.Storage.Queues.dll
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.csproj.AssemblyReference.cache
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.AssemblyInfoInputs.cache
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.AssemblyInfo.cs
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.csproj.CoreCompileInputs.cache
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.csproj.CopyComplete
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.dll
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.pdb
+C:\Az 204 Labs\LearnAndShare\Storage\Queue\AzureStorageQueue\obj\Debug\netcoreapp3.1\AzureStorageQueue.genruntimeconfig.cache

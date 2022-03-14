@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TTL
+build_property.ProjectDir = C:\Az 204 Labs\LearnAndShare\ServiceBus\MessageLockAndTTL\

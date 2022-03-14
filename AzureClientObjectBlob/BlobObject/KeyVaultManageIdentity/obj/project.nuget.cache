@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "l8Aur94Pte7fiPFoyXLwwCrqlelLBpfk3BLMWTnH1q/SAaqY8/TFHGNjaayOdfkz2w8wZvPgnZZHiSD61Zt7EA==",
+  "success": true,
+  "projectFilePath": "C:\\Az 204 Labs\\LearnAndShare\\AzureClientObjectBlob\\BlobObject\\KeyVaultManageIdentity\\KeyVaultManageIdentity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\azure.core\\1.17.0\\azure.core.1.17.0.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\azure.identity\\1.4.1\\azure.identity.1.4.1.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\azure.security.keyvault.secrets\\4.2.0\\azure.security.keyvault.secrets.4.2.0.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\microsoft.identity.client\\4.30.1\\microsoft.identity.client.4.30.1.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\2.18.4\\microsoft.identity.client.extensions.msal.2.18.4.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\dileep.pai\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

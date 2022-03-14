@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AzureClientObjectBlob/.vs
+/AzureClientObjectBlob/BlobObject/.vs/BlobObject/v16
+/AzureClientObjectBlob/BlobObject/BlobObject/bin/Debug/netcoreapp3.1
+/AzureClientObjectBlob/BlobObject/BlobObject/obj
+/AzureClientObjectBlob/BlobObject/KeyVaultClientObject/bin/Debug/netcoreapp3.1
+/AzureClientObjectBlob/BlobObject/KeyVaultClientObject/obj
+/APIM/WebApi/WebApi
+/APIM/WebApi

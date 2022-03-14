@@ -1,0 +1,41 @@
+C:\tmp\AzureServiceQueue\AzureServiceQueue\bin\Debug\netcoreapp3.1\AzureServiceQueue.exe
+C:\tmp\AzureServiceQueue\AzureServiceQueue\bin\Debug\netcoreapp3.1\AzureServiceQueue.deps.json
+C:\tmp\AzureServiceQueue\AzureServiceQueue\bin\Debug\netcoreapp3.1\AzureServiceQueue.runtimeconfig.json
+C:\tmp\AzureServiceQueue\AzureServiceQueue\bin\Debug\netcoreapp3.1\AzureServiceQueue.runtimeconfig.dev.json
+C:\tmp\AzureServiceQueue\AzureServiceQueue\bin\Debug\netcoreapp3.1\AzureServiceQueue.dll
+C:\tmp\AzureServiceQueue\AzureServiceQueue\bin\Debug\netcoreapp3.1\AzureServiceQueue.pdb
+C:\tmp\AzureServiceQueue\AzureServiceQueue\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\tmp\AzureServiceQueue\AzureServiceQueue\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\tmp\AzureServiceQueue\AzureServiceQueue\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\tmp\AzureServiceQueue\AzureServiceQueue\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\tmp\AzureServiceQueue\AzureServiceQueue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tmp\AzureServiceQueue\AzureServiceQueue\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\tmp\AzureServiceQueue\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.csprojAssemblyReference.cache
+C:\tmp\AzureServiceQueue\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.AssemblyInfoInputs.cache
+C:\tmp\AzureServiceQueue\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.AssemblyInfo.cs
+C:\tmp\AzureServiceQueue\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.csproj.CoreCompileInputs.cache
+C:\tmp\AzureServiceQueue\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.csproj.CopyComplete
+C:\tmp\AzureServiceQueue\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.dll
+C:\tmp\AzureServiceQueue\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.pdb
+C:\tmp\AzureServiceQueue\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.genruntimeconfig.cache
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\bin\Debug\netcoreapp3.1\AzureServiceQueue.exe
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\bin\Debug\netcoreapp3.1\AzureServiceQueue.deps.json
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\bin\Debug\netcoreapp3.1\AzureServiceQueue.runtimeconfig.json
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\bin\Debug\netcoreapp3.1\AzureServiceQueue.runtimeconfig.dev.json
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\bin\Debug\netcoreapp3.1\AzureServiceQueue.dll
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\bin\Debug\netcoreapp3.1\AzureServiceQueue.pdb
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.csproj.AssemblyReference.cache
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.AssemblyInfoInputs.cache
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.AssemblyInfo.cs
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.csproj.CoreCompileInputs.cache
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.csproj.CopyComplete
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.dll
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.pdb
+C:\Az 204 Labs\LearnAndShare\ServiceBus\AzureServiceQueue\obj\Debug\netcoreapp3.1\AzureServiceQueue.genruntimeconfig.cache

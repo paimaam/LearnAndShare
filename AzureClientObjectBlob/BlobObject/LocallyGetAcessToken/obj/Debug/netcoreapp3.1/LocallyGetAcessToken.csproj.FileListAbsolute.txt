@@ -1,0 +1,13 @@
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\bin\Debug\netcoreapp3.1\LocallyGetAcessToken.exe
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\bin\Debug\netcoreapp3.1\LocallyGetAcessToken.deps.json
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\bin\Debug\netcoreapp3.1\LocallyGetAcessToken.runtimeconfig.json
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\bin\Debug\netcoreapp3.1\LocallyGetAcessToken.runtimeconfig.dev.json
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\bin\Debug\netcoreapp3.1\LocallyGetAcessToken.dll
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\bin\Debug\netcoreapp3.1\LocallyGetAcessToken.pdb
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\obj\Debug\netcoreapp3.1\LocallyGetAcessToken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\obj\Debug\netcoreapp3.1\LocallyGetAcessToken.AssemblyInfoInputs.cache
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\obj\Debug\netcoreapp3.1\LocallyGetAcessToken.AssemblyInfo.cs
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\obj\Debug\netcoreapp3.1\LocallyGetAcessToken.csproj.CoreCompileInputs.cache
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\obj\Debug\netcoreapp3.1\LocallyGetAcessToken.dll
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\obj\Debug\netcoreapp3.1\LocallyGetAcessToken.pdb
+C:\Az 204 Labs\LearnAndShare\AzureClientObjectBlob\BlobObject\LocallyGetAcessToken\obj\Debug\netcoreapp3.1\LocallyGetAcessToken.genruntimeconfig.cache
